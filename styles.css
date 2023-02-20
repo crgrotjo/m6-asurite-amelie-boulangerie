@@ -41,7 +41,7 @@ nav {
 }
 
 nav li {
-    text-decoration: none;
+    list-style: none;
     text-align: center;
 }
 nav li a {
